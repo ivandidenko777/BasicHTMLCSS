@@ -1,1 +1,1 @@
-# BasicHTMLCSS
+# Дипломный проект gllacy
